@@ -1,6 +1,6 @@
 # salib 💉
 **salib** (**s***marter* **a***rgument* **lib***rary*) \
-is a single-file library to handle arguments in **C++** *(!)* | made as a successor to [ecah-lib](https://github.com/jstmaxlol/ecah-lib)
+is a single-file library to handle arguments in **C++11** | made as a successor to [ecah-lib](https://github.com/jstmaxlol/ecah-lib)
 
 ### [download salib](https://github.com/jstmaxlol/ecah-lib/blob/main/ecah-lib.h)
 
